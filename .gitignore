@@ -62,3 +62,8 @@ pnpm-debug.log*
 
 # coverage reports
 coverage/
+
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.env
